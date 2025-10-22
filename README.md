@@ -47,3 +47,4 @@ This project uses 8 interconnected Clarity smart contracts to create a robust ec
 ### For Verifiers (e.g., Employers)
 - Use Verification.clar to check a credential ID.
 - Optionally, query UserRegistry for recipient details or Governance for platform integrity.
+
