@@ -48,4 +48,3 @@ This project uses 8 interconnected Clarity smart contracts to create a robust ec
 - Use Verification.clar to check a credential ID.
 - Optionally, query UserRegistry for recipient details or Governance for platform integrity.
 
-That's it! No more fake diplomas or verification hassles—education credentials enter the blockchain era.
